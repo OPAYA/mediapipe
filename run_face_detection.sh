@@ -1,0 +1,1 @@
+bazel-bin/mediapipe/examples/desktop/face_detection/face_detection_cpu --calculator_graph_config_file=mediapipe/graphs/face_detection/desktop_live_calculators.pbtxt --input_video_path=video1.mp4 --output_video_path=output.mp4
